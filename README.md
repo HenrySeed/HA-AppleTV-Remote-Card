@@ -3,6 +3,8 @@ A very simple `picture-elements` YAML config with custom images to match the bui
 
 Credit to [douglampe](https://github.com/douglampe) for the original YAML setup and idea [his solution](https://github.com/douglampe/ha-appletv-remote-card)
 
+![Both types of Volume](https://github.com/HenrySeed/HA-AppleTV-Remote-Card/blob/main/eithor_or.png?raw=true)
+
 ## Installation
 
 1. Copy the contents of `remote-card.yaml` into a `picture-elements` lovelace card.
