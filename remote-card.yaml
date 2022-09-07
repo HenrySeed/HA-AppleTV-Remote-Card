@@ -1,5 +1,5 @@
 type: picture-elements
-image: /local/resources/apple-tv-remote_PLUS_MINUS.png
+image: https://github.com/HenrySeed/HA-AppleTV-Remote-Card/blob/main/apple-tv-remote_PLUS_MINUS_notRounded.png?raw=true
 
 elements:
     # Exit =================================
