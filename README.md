@@ -2,6 +2,8 @@
 
 A very simple `picture-elements` YAML config with custom images to match the built in IOS remote
 
+Credit to [douglampe](https://github.com/douglampe) for the idea [his repo](https://github.com/douglampe/ha-appletv-remote-card)
+
 ## Features
 - Power on and Power off with the same power button
 - Play/Pause with one button
@@ -29,4 +31,3 @@ A very simple `picture-elements` YAML config with custom images to match the bui
 ![Button Layout](https://github.com/HenrySeed/HA-AppleTV-Remote-Card/blob/main/Screenshots/button_example.png?raw=true)
 
 
-Credit to [douglampe](https://github.com/douglampe) for the idea [his repo](https://github.com/douglampe/ha-appletv-remote-card)
