@@ -22,12 +22,11 @@ Credit to [douglampe](https://github.com/douglampe) for the idea [his repo](http
 2. Change `remote.living_apple_tv` and `media_player.living_apple_tv` to your Apple TV remote and media entities
 3. Make a script called `apple_tv_power` (or something else and update the yaml to fit). Copy the contents of [apple_tv_power.yaml](https://github.com/HenrySeed/HA-AppleTV-Remote-Card/blob/main/apple_tv_power.yaml) into it
 4. Update the `navigation_path: home` to point to the dashboard you send this to.
-5. Choose a different image from `Images/` to remove the back button or change the volume rocker.
+5. (If you dont use the card-mod plugin) maybe remove the last 8 lines of the yaml? Im not sure if it will play nice without card-mod
 
 ### Optionally
-
+- Choose a different image from `Images/` to remove the back button or change the volume rocker.
 -   Save the images to your `/config/resources` folder (making that folder if necessary)
--   Change the image you point to, there are options for rounded corners and VOL vs +- Volume rockers
 
 ## Button Layout
 
