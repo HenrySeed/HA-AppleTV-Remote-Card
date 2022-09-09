@@ -169,3 +169,11 @@ elements:
           left: 84.5%
           transform: translate(-50%, -50%) scale(380%, 380%)
           opacity: 0
+card_mod:
+    style: |
+        .type-picture-elements {
+          min-height: 500px; 
+          max-height: 100vh;
+          min-width: 268px;
+          max-width: min(calc((100vh - 70px) * 1125/2095), 400px);
+        }
